@@ -1,16 +1,15 @@
-package lang.immutable.address;
+package lang.immutable;
 
-public class PrimitiveMain {
+public class RefMain2 {
 
     public static void main(String[] args) {
-
-        int a = 10;
-        int b = a;
+        ImmutableAddress a = new ImmutableAddress("서울");
+        ImmutableAddress b = a;
         System.out.println("a = " + a);
         System.out.println("b = " + b);
 
-        b = 20;
-        System.out.println("20 -> b");
+        //b.setValue("부산")
+        b = new ImmutableAddress("부산");
         System.out.println("a = " + a);
         System.out.println("b = " + b);
     }
