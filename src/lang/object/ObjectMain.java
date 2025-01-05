@@ -10,5 +10,6 @@ public class ObjectMain {
 
         String string = child.toString();
         System.out.println(string);
+        System.out.println(string);
     }
 }
