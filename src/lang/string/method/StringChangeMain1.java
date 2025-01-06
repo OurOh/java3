@@ -12,5 +12,8 @@ public class StringChangeMain1 {
 
         System.out.println("'Java를 'World'로 대체: " + str.replace("Java", "World"));
 
+        System.out.println("첫번째 'Java를 'World'로 대체: " + str.replaceFirst("Java", "World"));
+
+
     }
 }

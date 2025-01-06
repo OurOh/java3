@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e439587-1f87-489f-8801-85628c2640d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringChangeMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringComparisonMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringInfoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringSearchMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/builder/StringBuilderMain1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringChangeMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringSplitJoinMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringUtilMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringUtilMain2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/string/method/StringChangeMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/method/StringChangeMain1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +51,9 @@
     "Application.RefMain1_3.executor": "Run",
     "Application.RefMain2.executor": "Run",
     "Application.RefMain_2.executor": "Run",
+    "Application.StringBuilderMain1_1.executor": "Run",
     "Application.StringChangeMain1.executor": "Run",
+    "Application.StringChangeMain2.executor": "Run",
     "Application.StringComparisonMain.executor": "Run",
     "Application.StringEqualsMain1.executor": "Run",
     "Application.StringEqualsMain2.executor": "Run",
@@ -57,6 +61,9 @@
     "Application.StringImmutable2.executor": "Run",
     "Application.StringInfoMain.executor": "Run",
     "Application.StringSearchMain.executor": "Run",
+    "Application.StringSplitJoinMain.executor": "Run",
+    "Application.StringUtilMain1.executor": "Run",
+    "Application.StringUtilMain2.executor": "Run",
     "Application.ToStringMain1.executor": "Run",
     "Application.ToStringMain2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -77,9 +84,22 @@
       <recent name="lang.immutable.address" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringChangeMain1">
-    <configuration name="StringChangeMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringChangeMain1" />
+  <component name="RunManager" selected="Application.StringBuilderMain1_1">
+    <configuration name="StringBuilderMain1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.builder.StringBuilderMain1_1" />
+      <module name="java3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.string.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringChangeMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringChangeMain2" />
       <module name="java3" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringComparisonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringComparisonMain" />
+    <configuration name="StringSplitJoinMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringSplitJoinMain" />
       <module name="java3" />
       <extension name="coverage">
         <pattern>
@@ -104,21 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringImmutable2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.immutable.StringImmutable2" />
-      <module name="java3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lang.string.immutable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringInfoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringInfoMain" />
+    <configuration name="StringUtilMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringUtilMain1" />
       <module name="java3" />
       <extension name="coverage">
         <pattern>
@@ -130,8 +137,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSearchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringSearchMain" />
+    <configuration name="StringUtilMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringUtilMain2" />
       <module name="java3" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringChangeMain1" />
-        <item itemvalue="Application.StringSearchMain" />
-        <item itemvalue="Application.StringComparisonMain" />
-        <item itemvalue="Application.StringInfoMain" />
-        <item itemvalue="Application.StringImmutable2" />
+        <item itemvalue="Application.StringBuilderMain1_1" />
+        <item itemvalue="Application.StringUtilMain2" />
+        <item itemvalue="Application.StringUtilMain1" />
+        <item itemvalue="Application.StringSplitJoinMain" />
+        <item itemvalue="Application.StringChangeMain2" />
       </list>
     </recent_temporary>
   </component>
