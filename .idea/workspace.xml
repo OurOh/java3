@@ -5,73 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e439587-1f87-489f-8801-85628c2640d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lang/string4/Chaining/MethodChainingMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string4/Chaining/MethodChainingMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string4/Chaining/MethodChainingMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string4/Chaining/ValueAdder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string4/builder/LoopStringMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string4/builder/StringBuilderMain1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string4/test/TestString1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string4/test/TestString2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string4/test/TestString3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string4/test/TestString4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string4/test/TestString5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string4/test/TestString6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper5/AutoboxingMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper5/MyInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper5/MyIntegerMethodMain0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper5/MyIntegerMethodMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper5/MyIntegerNullMain0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper5/MyIntegerNullMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper5/WrapperClassMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper5/WrapperUtilMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper5/WrapperVsPrimitive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper5/clazz/ClassMetaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper5/math/MathMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper5/math/RandomMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper5/system/SystemMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex0/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex0/StringGradeEx0_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex0/StringGradeEx0_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex1/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex1/StringGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex1/StringGradeEx1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex1/StringGradeEx1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/ClassGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/ClassGradeEx2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/ClassGradeEx2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/ClassRedMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/EnumEx3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/EnumEx3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/EnumMethodMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/EnumRefMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref1/ClassGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref1/ClassGradeRefMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref1/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref2/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref2/EnumRefMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref2/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref3/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref3/EnumRefMain3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref3/EnumRefMain3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref3/Grade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/immutable/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable3/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/immutable/ImmutableAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable3/ImmutableAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/immutable/MemberMainV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable3/MemberMainV1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/immutable/MemberMainV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable3/MemberMainV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/immutable/MemberV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable3/MemberV1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/immutable/MemberV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable3/MemberV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/immutable/PrimitiveMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable3/PrimitiveMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/immutable/RefMain1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable3/RefMain1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/immutable/RefMain1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable3/RefMain1_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/immutable/RefMain1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable3/RefMain1_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/immutable/RefMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/immutable3/RefMain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/object/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/object2/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/object/ObjectMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/object2/ObjectMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/object/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/object2/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/object/equals/EqualsMainV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/object2/equals/EqualsMainV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/object/equals/UserV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/object2/equals/UserV1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/object/equals/UserV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/object2/equals/UserV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/object/poly/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/object2/poly/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/object/poly/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/object2/poly/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/object/poly/ObjectPolyExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/object2/poly/ObjectPolyExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/object/poly/ObjectPolyExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/object2/poly/ObjectPolyExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/object/test/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/object2/test/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/object/test/RectangleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/object2/test/RectangleMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/object/tostring/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/object2/tostring/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/object/tostring/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/object2/tostring/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/object/tostring/ObjectPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/object2/tostring/ObjectPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/object/tostring/ToStringMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/object2/tostring/ToStringMain1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/object/tostring/ToStringMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/object2/tostring/ToStringMain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/string/builder/StringBuilderMain1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string4/builder/StringBuilderMain1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/string/equals/StringEqualsMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string4/equals/StringEqualsMain1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/string/equals/StringEqualsMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string4/equals/StringEqualsMain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/string/immutable/StringImmutable1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string4/immutable/StringImmutable1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/string/immutable/StringImmutable2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string4/immutable/StringImmutable2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/string/method/StringChangeMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string4/method/StringChangeMain1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/string/method/StringChangeMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string4/method/StringChangeMain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/string/method/StringComparisonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string4/method/StringComparisonMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/string/method/StringInfoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string4/method/StringInfoMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/string/method/StringSearchMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string4/method/StringSearchMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/string/method/StringSplitJoinMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string4/method/StringSplitJoinMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/string/method/StringUtilMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string4/method/StringUtilMain1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/string/method/StringUtilMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string4/method/StringUtilMain2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +43,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -100,7 +63,15 @@
   "keyToString": {
     "Application.AutoboxingMain2.executor": "Run",
     "Application.Child.executor": "Run",
+    "Application.ClassGradeEx2_2.executor": "Run",
+    "Application.ClassGradeRefMain1.executor": "Run",
     "Application.ClassMetaMain.executor": "Run",
+    "Application.ClassRedMain.executor": "Run",
+    "Application.EnumEx3_1.executor": "Run",
+    "Application.EnumMethodMain.executor": "Run",
+    "Application.EnumReMain.executor": "Run",
+    "Application.EnumRefMain2.executor": "Run",
+    "Application.EnumRefMain3_2.executor": "Run",
     "Application.EqualsMainV2.executor": "Run",
     "Application.LangMain.executor": "Run",
     "Application.LoopStringMain.executor": "Run",
@@ -115,6 +86,7 @@
     "Application.ObjectMain.executor": "Run",
     "Application.ObjectPolyExample2.executor": "Run",
     "Application.PrimitiveMain.executor": "Run",
+    "Application.RandomMain.executor": "Run",
     "Application.RectangleMain.executor": "Run",
     "Application.RefMain1_1.executor": "Run",
     "Application.RefMain1_3.executor": "Run",
@@ -127,6 +99,9 @@
     "Application.StringComparisonMain.executor": "Run",
     "Application.StringEqualsMain1.executor": "Run",
     "Application.StringEqualsMain2.executor": "Run",
+    "Application.StringGradeEx0_1.executor": "Run",
+    "Application.StringGradeEx0_2.executor": "Run",
+    "Application.StringGradeEx1_2.executor": "Run",
     "Application.StringImmutable1.executor": "Run",
     "Application.StringImmutable2.executor": "Run",
     "Application.StringInfoMain.executor": "Run",
@@ -160,18 +135,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="enumeration.ref3" />
+      <recent name="enumeration.ref1" />
+      <recent name="enumeration.ex3" />
+      <recent name="enumeration.ex1" />
       <recent name="lang.string.builder" />
-      <recent name="lang.string.immutable" />
-      <recent name="lang.immutable.address" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RandomMain">
-    <configuration name="ClassMetaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.wrapper5.clazz.ClassMetaMain" />
+  <component name="RunManager" selected="Application.EnumMain3_4">
+    <configuration name="ClassGradeRefMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.ref1.ClassGradeRefMain1" />
       <module name="java3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.wrapper5.clazz.*" />
+          <option name="PATTERN" value="enumeration.ref1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.wrapper5.math.MathMain" />
+    <configuration name="EnumMain3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.ref3.EnumMain3_4" />
       <module name="java3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.wrapper5.math.*" />
+          <option name="PATTERN" value="enumeration.ref3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.wrapper5.math.RandomMain" />
+    <configuration name="EnumMethodMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.ex3.EnumMethodMain" />
       <module name="java3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.wrapper5.math.*" />
+          <option name="PATTERN" value="enumeration.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SystemMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.wrapper5.system.SystemMain" />
+    <configuration name="EnumRefMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.ref2.EnumRefMain2" />
       <module name="java3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.wrapper5.system.*" />
+          <option name="PATTERN" value="enumeration.ref2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperVsPrimitive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.wrapper5.WrapperVsPrimitive" />
+    <configuration name="EnumRefMain3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.ref3.EnumRefMain3_2" />
       <module name="java3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.wrapper5.*" />
+          <option name="PATTERN" value="enumeration.ref3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomMain" />
-        <item itemvalue="Application.MathMain" />
-        <item itemvalue="Application.SystemMain" />
-        <item itemvalue="Application.ClassMetaMain" />
-        <item itemvalue="Application.WrapperVsPrimitive" />
+        <item itemvalue="Application.EnumMain3_4" />
+        <item itemvalue="Application.EnumRefMain3_2" />
+        <item itemvalue="Application.EnumRefMain2" />
+        <item itemvalue="Application.ClassGradeRefMain1" />
+        <item itemvalue="Application.EnumMethodMain" />
       </list>
     </recent_temporary>
   </component>
