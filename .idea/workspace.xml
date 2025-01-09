@@ -5,35 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e439587-1f87-489f-8801-85628c2640d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex0/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex0/StringGradeEx0_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex0/StringGradeEx0_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex1/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex1/StringGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex1/StringGradeEx1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex1/StringGradeEx1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/ClassGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/ClassGradeEx2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/ClassGradeEx2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/ClassRedMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/EnumEx3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/EnumEx3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/EnumMethodMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/EnumRefMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ref1/ClassGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ref1/ClassGradeRefMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ref1/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ref2/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ref2/EnumRefMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ref2/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ref3/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ref3/EnumRefMain3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ref3/EnumRefMain3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ref3/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/NestedOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/NestedOuterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex1/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex1/NetworkMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex1/NetworkMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex2/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex2/NetworkMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/inner/InnerOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/inner/InnerOuterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/inner/ex1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/inner/ex1/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/inner/ex1/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/inner/ex2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/inner/ex2/CarMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +70,8 @@
     "Application.MyIntegerMethodMain0.executor": "Run",
     "Application.MyIntegerMethodMain1.executor": "Run",
     "Application.MyIntegerNullMain0.executor": "Run",
+    "Application.NestedOuterMain.executor": "Run",
+    "Application.NetworkMain.executor": "Run",
     "Application.ObjectMain.executor": "Run",
     "Application.ObjectPolyExample2.executor": "Run",
     "Application.PrimitiveMain.executor": "Run",
@@ -135,46 +124,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nested.nested.ex2" />
       <recent name="enumeration.ref3" />
       <recent name="enumeration.ref1" />
       <recent name="enumeration.ex3" />
       <recent name="enumeration.ex1" />
-      <recent name="lang.string.builder" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EnumMain3_4">
-    <configuration name="ClassGradeRefMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumeration.ref1.ClassGradeRefMain1" />
-      <module name="java3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="enumeration.ref1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NetworkMain">
     <configuration name="EnumMain3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enumeration.ref3.EnumMain3_4" />
       <module name="java3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="enumeration.ref3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EnumMethodMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumeration.ex3.EnumMethodMain" />
-      <module name="java3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="enumeration.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,13 +171,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NestedOuterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.nested.NestedOuterMain" />
+      <module name="java3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nested.nested.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetworkMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.nested.ex2.NetworkMain" />
+      <module name="java3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nested.nested.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NetworkMain" />
+        <item itemvalue="Application.NestedOuterMain" />
         <item itemvalue="Application.EnumMain3_4" />
         <item itemvalue="Application.EnumRefMain3_2" />
         <item itemvalue="Application.EnumRefMain2" />
-        <item itemvalue="Application.ClassGradeRefMain1" />
-        <item itemvalue="Application.EnumMethodMain" />
       </list>
     </recent_temporary>
   </component>
@@ -239,16 +228,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
