@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -114,13 +115,13 @@
       <recent name="enumeration.ex1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NetworkMain">
-    <configuration name="EnumMain3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumeration.ref3.EnumMain3_4" />
+  <component name="RunManager" selected="Application.Ex1Main">
+    <configuration name="AnonymousOuter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.local.AnonymousOuter" />
       <module name="java3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumeration.ref3.*" />
+          <option name="PATTERN" value="nested.local.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumRefMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumeration.ref2.EnumRefMain2" />
+    <configuration name="Ex0Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.annoymous.ex.Ex0Main" />
       <module name="java3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumeration.ref2.*" />
+          <option name="PATTERN" value="nested.annoymous.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumRefMain3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumeration.ref3.EnumRefMain3_2" />
+    <configuration name="Ex0RefMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.annoymous.ex.Ex0RefMain" />
       <module name="java3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumeration.ref3.*" />
+          <option name="PATTERN" value="nested.annoymous.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedOuterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nested.nested.NestedOuterMain" />
+    <configuration name="Ex1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.annoymous.ex.Ex1Main" />
       <module name="java3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nested.nested.*" />
+          <option name="PATTERN" value="nested.annoymous.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NetworkMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nested.nested.ex2.NetworkMain" />
+    <configuration name="LocalOuterV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.local.LocalOuterV2" />
       <module name="java3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nested.nested.ex2.*" />
+          <option name="PATTERN" value="nested.local.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NetworkMain" />
-        <item itemvalue="Application.NestedOuterMain" />
-        <item itemvalue="Application.EnumMain3_4" />
-        <item itemvalue="Application.EnumRefMain3_2" />
-        <item itemvalue="Application.EnumRefMain2" />
+        <item itemvalue="Application.Ex1Main" />
+        <item itemvalue="Application.Ex0RefMain" />
+        <item itemvalue="Application.Ex0Main" />
+        <item itemvalue="Application.AnonymousOuter" />
+        <item itemvalue="Application.LocalOuterV2" />
       </list>
     </recent_temporary>
   </component>
